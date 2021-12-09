@@ -1,5 +1,5 @@
 
-MERN Stack Developer || Codechef (1893 @4star) ||CodeForces(1486 @specialist) || Leetcode(1719)
+MERN Stack Developer || Codechef (1893 @4star) ||CodeForces(1486 @specialist) || Leetcode(1749)
 
 - 👋 Hi, I’m @gajendra0180, a CSE sophomore at UIET Chandigarh.
 - 👀 I’m currently a CSE undergraduate(2024) at UIET Chandigarh.I am pursuing a B.E. degree in CSE.
