@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **React,Typescript,Node JS,Linux,Mern Stack**
 
-- 📫 How to reach me **gajendrahitz@gmail.com**
+- 📫 How to reach me **gajendrahitz@gmail.com** or <a href="www.gajendra0180.tech" target="blank">My Profile</a>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1piStO8n2KyrQxRupcEaAwnL17kFbhNLf/view?usp=sharing](https://drive.google.com/file/d/1piStO8n2KyrQxRupcEaAwnL17kFbhNLf/view?usp=sharing)
 
