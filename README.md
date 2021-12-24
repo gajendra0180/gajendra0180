@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gajendrahitz@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1piStO8n2KyrQxRupcEaAwnL17kFbhNLf/view?usp=sharing](https://drive.google.com/file/d/1piStO8n2KyrQxRupcEaAwnL17kFbhNLf/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Le3hWD9HhxJu4QNQTbOyKj_bhl-bM2Pg/view?usp=sharing](https://drive.google.com/file/d/1Le3hWD9HhxJu4QNQTbOyKj_bhl-bM2Pg/view?usp=sharing)
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
