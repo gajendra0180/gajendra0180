@@ -2,7 +2,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gajendra0180.gajendra0180) </h1>
 
-- 📄 Resume: [https://drive.google.com/file/d/1Le3hWD9HhxJu4QNQTbOyKj_bhl-bM2Pg/view?usp=sharing](https://drive.google.com/file/d/1Le3hWD9HhxJu4QNQTbOyKj_bhl-bM2Pg/view?usp=sharing)
+- 📄 Resume: [https://drive.google.com/file/d/1lrWnnaBd5NNkRjQ1d2lLDhDGRSSMMk1j/view?usp=sharing](https://drive.google.com/file/d/1lrWnnaBd5NNkRjQ1d2lLDhDGRSSMMk1j/view?usp=sharing)
+
+
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
