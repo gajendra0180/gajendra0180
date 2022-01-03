@@ -1,22 +1,8 @@
-<h1 align="center">Hi, I'm Gajendra ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<h3 align="center">A passionate Full Stack developer.</h3>
+<h1 align="center">Hi, I'm Gajendra ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px><h3 align="center">A passionate Full Stack developer.</h3>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gajendra0180.gajendra0180)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gajendra0180.gajendra0180) </h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gajendra0180" alt="gajendra0180" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gajendra0180" target="blank"><img src="https://img.shields.io/twitter/follow/gajendra0180?logo=twitter&style=for-the-badge" alt="gajendra0180" /></a> </p>
-
-- 🌱 I’m currently learning **DevOps**
-
-- 👨‍💻 All of my projects are available at [https://github.com/gajendra0180?tab=repositories](https://github.com/gajendra0180?tab=repositories)
-
-- 💬 Ask me about **React,Typescript,Node JS,Linux,Mern Stack**
-
-- 📫 How to reach me **gajendrahitz@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Le3hWD9HhxJu4QNQTbOyKj_bhl-bM2Pg/view?usp=sharing](https://drive.google.com/file/d/1Le3hWD9HhxJu4QNQTbOyKj_bhl-bM2Pg/view?usp=sharing)
-
+- 📄 Resume: [https://drive.google.com/file/d/1Le3hWD9HhxJu4QNQTbOyKj_bhl-bM2Pg/view?usp=sharing](https://drive.google.com/file/d/1Le3hWD9HhxJu4QNQTbOyKj_bhl-bM2Pg/view?usp=sharing)
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
