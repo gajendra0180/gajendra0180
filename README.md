@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gajendra0180.gajendra0180) </h1>
 
-- 📄 Resume: [My Resume](https://drive.google.com/file/d/1FjwADAe71RQITCDBdbIsiZS_2KpQdGV3/view?usp=sharing)
+- 📄 Resume: [My Resume](https://drive.google.com/file/d/19CnopITXCAukloMCOKQaWXM-pawxTZsS/view?usp=sharing)
 
 
 
