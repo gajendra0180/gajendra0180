@@ -331,12 +331,10 @@ const gajendra = {
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
+
+ ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
+
 [
 ![GitHub metrics](https://metrics.lecoq.io/gajendra0180)  ](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gajendra0180&show_icons=true&count_private=true)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=gajendra0180)  
-<br/>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gajendra0180)  
 
-
- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
