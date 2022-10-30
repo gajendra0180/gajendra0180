@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gajendra ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px><h3 align="center">A passionate Full Stack developer.</h3>
+<h1 align="center">Hi, I'm Gajendra ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px><h3 align="center">Software Engineer with 1+ years of experience.</h3>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gajendra0180.gajendra0180) </h1>
 
