@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gajendra0180.gajendra0180) </h1>
 
-- 📄 Resume: [My Resume](https://drive.google.com/file/d/1eGGsDa06PEyjmFse69EzSeZOXNGOmh1c/view?usp=share_link)
+- 📄 Resume: [My Resume]()
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
