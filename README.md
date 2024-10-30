@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Gajendra ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px><h3 align="center">Blockchain Engineer</h3>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gajendra0180.gajendra0180) </h1>
+<h1 align="center">Hi, I'm Gajendra ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px><h3 align="center">Blockchain Engineer @Magpiexyz || Knight @Leetcode (Top 5%)
+</h3>
+ </h1>
 
 - 📄 Resume: [My Resume](https://drive.google.com/file/d/1TIvEp3BCINOBCRrYVJaBeJUgDiEWAdxh/view)
 
@@ -27,6 +27,5 @@
  ![github-contribution-grid-snake](https://user-images.githubusercontent.com/90142173/154796318-e529fdc7-2132-4ce7-8417-06b71cf02506.svg)
 
 [
-![GitHub metrics](https://metrics.lecoq.io/gajendra0180)  ](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gajendra0180&show_icons=true&count_private=true)  
 
