@@ -2,7 +2,7 @@
 </h3>
  </h1>
 
-- 📄 Resume: [My Resume](https://drive.google.com/file/d/1TIvEp3BCINOBCRrYVJaBeJUgDiEWAdxh/view)
+- 📄 Resume: [My Resume]([https://drive.google.com/file/d/1TIvEp3BCINOBCRrYVJaBeJUgDiEWAdxh/view](https://drive.google.com/file/d/1CHfRxX1-rSWTjP4dHhMt7RbRHHP8M6BX/view?usp=sharing))
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
