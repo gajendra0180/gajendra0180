@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajendra0180&label=Profile%20views&color=0e75b6&style=flat" alt="gajendra0180" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gajendra0180" alt="gajendra0180" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/gajendra0180" target="blank"><img src="https://img.shields.io/twitter/follow/gajendra0180?logo=twitter&style=for-the-badge" alt="gajendra0180" /></a> </p>
 
 - 🔭 I’m currently working on [Magpie Protocol](https://www.magpiexyz.io/)
