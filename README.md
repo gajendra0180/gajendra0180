@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gajendrahitz@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CHfRxX1-rSWTjP4dHhMt7RbRHHP8M6BX/view?usp=sharing](https://drive.google.com/file/d/1CHfRxX1-rSWTjP4dHhMt7RbRHHP8M6BX/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1CHfRxX1-rSWTjP4dHhMt7RbRHHP8M6BX/view?usp=sharing](https://drive.google.com/file/d/1CHfRxX1-rSWTjP4dHhMt7RbRHHP8M6BX/view?usp=sharing)](https://drive.google.com/file/d/1nYGGKEBeRAkqJW731DzNedCmGMmQhdP2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
