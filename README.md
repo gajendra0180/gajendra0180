@@ -17,6 +17,7 @@ contract Engineer {
 🚀 I design scalable decentralized systems—from DeFi handling **\$1B+ TVL** to cloud-native automation.
 ⚙️ Expert in smart contracts, cross-chain protocols, and full-stack cloud/backend engineering.
 🌐 Built Hyperpie, Eigenpie, Cakepie — pushing the boundaries of Web3.
+
 📄 [View My Resume](https://drive.google.com/file/d/1ExDQAG3K98gK919llW4RbYgoOOopASzO/view)
 
 ---
