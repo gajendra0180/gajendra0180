@@ -45,6 +45,7 @@ contract Engineer {
 
 
 ![snake gif](https://github.com/gajendra0180/gajendra0180/blob/main/github-user-contribution.svg)
+![snake gif](https://github.com/gajendra0180/gajendra0180/blob/main/github-user-contribution-light.svg)
 
 
 ---
