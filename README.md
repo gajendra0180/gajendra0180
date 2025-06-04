@@ -43,6 +43,12 @@ contract Engineer {
 
 ### 🐍 Snake Contributions Animation
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/gajendra0180/gajendra0180/blob/main/github-user-contribution.svg" />
+</picture>
+
 ![snake gif](https://github.com/gajendra0180/gajendra0180/blob/main/github-user-contribution.svg)
 
 ---
