@@ -43,7 +43,7 @@ contract Engineer {
 
 ### 🐍 Snake Contributions Animation
 
-![snake gif](https://github.com/gajendrahitz/gajendrahitz/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/gajendra0180/gajendra0180/blob/main/github-user-contribution.svg)
 
 ---
 
