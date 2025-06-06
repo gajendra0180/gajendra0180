@@ -38,7 +38,7 @@ contract Engineer {
 | -------------------------- | -------------------------------------------- | --------------------- |
 | 🧪 [Hyperpie](https://www.hyperliquid.magpiexyz.io/stake)                | Liquid staking on Hyperliquid with \$3M+ TVL | Solidity, AWS         |
 | 🌐 [Blockchain Explorer Portfolio](https://gajendra0180.github.io/Block-Explorer-Portfolio/)       | Professional blockchain explorer-themed portfolio | WebGL, Javascript, HTML, CSS |
-| 🤖 [AI Zoom Bot](https://github.com/gajendra0180/AI-Bot-For-Zoom/tree/zoom-GPT-Integration)             | GPT-enabled voice bot for Zoom meetings      | Node.js, GPT          |
+| 🤖 [AI Interview Prep](https://github.com/gajendra0180/AI-Interview-Prep)             | Accelerate your interview preparation with our AI-powered interviewer      | Node.js, GPT          |
 | 🎮 [Blockchain Bidding Game](https://github.com/gajendra0180/BLockchain-Bidding-War-Game) | Game theory + event-driven bidding dApp      | Solidity, Node.js     |
 
 ---
